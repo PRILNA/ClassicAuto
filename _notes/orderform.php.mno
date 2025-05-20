@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ca_user" value="name:Username;datatype:string,name:Password;datatype:string,name:Full_name;datatype:string,name:DOB;datatype:date,name:Reg_date;datatype:timestamp,name:Access_level;datatype:string" />
+	<infoitem key="UD_ca_orderform" value="name:Sl_no;datatype:int,name:Name;datatype:string,name:E_mail;datatype:string,name:Phone;datatype:string,name:Car_model;datatype:string,name:Time_stamp;datatype:timestamp,name:Task_completed;datatype:string" />
+</info>
